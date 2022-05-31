@@ -1,9 +1,9 @@
 ## AFD-Net_Aggregated_Feature_Difference_Learning
-**paper：Element-wise Feature Relation Learning Network for Cross-Spectral Image Patch Matching（IEEE Transactions on Neural Networks and Learning Systems  2021已发表（2.05））**  
+**（1）paper：Element-wise Feature Relation Learning Network for Cross-Spectral Image Patch Matching（IEEE Transactions on Neural Networks and Learning Systems  2021已发表（2.05））**  
 [一区期刊论文地址](https://ieeexplore.ieee.org/abstract/document/9349201)  
-**该期刊论文的关键创新点是本人研究生毕业设计论文的第四章内容。**  
+**（2）该期刊论文的关键创新点是本人研究生毕业设计论文的第四章内容。**  
 [研究生毕业论文地址](http://kns8.zh.eastview.com/KCMS/detail/detail.aspx?filename=1020004804.nh&dbname=CMFD202001&dbcode=cdmd&uid=&v=MzE3NjBmbnM0eVJZYW16MTFQSGJrcVdBMEZyQ1VSN2lmWXVSdUZpamdWcnpQVkYyNUhyTzRHdG5NcTVFYlBJUis=)    
-**该期刊论文的关键创新点是本人研究生毕业设计论文的第四章内容，在2019年被ICCV（计算机视觉方向的三大顶级会议之一）录用为口头报告(Oral)论文，而ICCV 2019的Oral录用比例仅为4.62%。**   
+**（3）该创新点在2019年被ICCV（计算机视觉方向的三大顶级会议之一）录用为口头报告(Oral)论文，而ICCV 2019的Oral录用比例仅为4.62%。**   
 [ICCV录用论文地址](https://openaccess.thecvf.com/content_ICCV_2019/html/Quan_AFD-Net_Aggregated_Feature_Difference_Learning_for_Cross-Spectral_Image_Patch_Matching_ICCV_2019_paper.html)  
 
 
